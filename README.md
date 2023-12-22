@@ -1,4 +1,4 @@
-# titanic_survivor_prediction
+# data_analysis
 
 안녕하세요, 개발감자 박그냥입니다.
 
